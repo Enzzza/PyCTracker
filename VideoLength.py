@@ -6,6 +6,7 @@ import subprocess
 import time
 import json
 import re
+import random
 
 
 '''
@@ -313,22 +314,19 @@ def getSections(inputPath):
             })
        
         
-    i = 1
+    
     color = colors[0]
     
-    
-    
-    
-    
     for sect in sectionDict:
-        if i % 2 == 0:
+        r = random.randint(0,1)
+        if r:
             color = colors[0]
         else:
             color = colors[1]
        
         new_section = Section(sect["title"],sect["path"],sect["files"],color)
         sections.append(new_section)
-        i+=1
+        
     
     
     
