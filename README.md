@@ -49,7 +49,8 @@ for example
 ```
  If you execute script without arguments you get total time for each course section
 
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
+![Markdown Logo](https://user-images.githubusercontent.com/44332939/73797928-9acb0000-47b1-11ea-9b9a-af2b0a56fac1.PNG)
+
 
 
 
@@ -68,7 +69,7 @@ You can pass some arguments
 > Argument -t must be used with -s argument
 
 
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
+![Markdown Logo](https://user-images.githubusercontent.com/44332939/73798102-293f8180-47b2-11ea-8b6e-2e2bb2170be3.PNG)
 
 
 To be clear i am not expert in Python and i am sure a lot of stuff could be done in better and more efficient way.
