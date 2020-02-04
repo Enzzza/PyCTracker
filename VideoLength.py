@@ -20,7 +20,7 @@ https://mediaarea.net/en/MediaInfo/Download/Source
 os.chdir(os.environ["PROGRAMFILES"] + "\\mediainfo")
 from MediaInfoDLL3 import MediaInfo, Stream
 
-#this is video player you want to use change
+#this is video player you want to use change it to your location
 videoPlayer = "C://Program Files//KMPlayer 64X//KMPlayer64.exe"
 allowed_ext = [".mp4",".m4v",".mkv",".webm",".mov",".avi",".wmv",".mpg",".flv"]
 
