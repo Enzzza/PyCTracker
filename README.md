@@ -72,7 +72,7 @@ You can pass some arguments
 ![Markdown Logo](https://user-images.githubusercontent.com/44332939/73798102-293f8180-47b2-11ea-8b6e-2e2bb2170be3.PNG)
 
 
-To be clear i am not expert in Python and i am sure a lot of stuff could be done in better and more efficient way.
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
